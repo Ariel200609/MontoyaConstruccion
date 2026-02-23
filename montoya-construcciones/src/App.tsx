@@ -1,7 +1,7 @@
 import './index.css';
 import Hero from './components/Hero';
 import Obras from './components/Obras';
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import Especialidades from './components/Especialidades';
 import Footer from './components/Footer';
 import WhatsAppButton from './components/WhatsAppButton';
