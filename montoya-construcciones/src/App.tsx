@@ -3,7 +3,7 @@ import Hero from './components/Hero';
 import Obras from './components/Obras';
 import Especialidades from './components/Especialidades';
 import Footer from './components/Footer';
-import WhatsAppButton from './components/WhatsappButton';
+import WhatsAppButton from './components/WhatsAppButton';
 
 function App() {
   return (
