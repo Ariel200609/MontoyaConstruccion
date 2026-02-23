@@ -1,4 +1,4 @@
-export default function WhatsAppButton() {
+export default function WhatsappButton() {
   // Reemplazá este número por el de tu papá (código de país + número, sin el '+' ni espacios)
   const numeroWhatsApp = "5491100000000"; 
   const mensajeDefault = "Hola! Estuve viendo la página y me gustaría pedir un presupuesto.";
